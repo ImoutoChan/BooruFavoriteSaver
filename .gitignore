@@ -1,6 +1,4 @@
 /.vs/*
-/BooruFavoritesSaver/bin/*
-/BooruFavoritesSaver/obj/*
 /DanbooruAutoSaver/bin/*
 /DanbooruAutoSaver/obj/*
 /DanbooruAutoSaver/Properties/PublishProfiles/FolderProfile.pubxml.user
